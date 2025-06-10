@@ -74,14 +74,4 @@ CODE_COVERAGE=true npm run start:e2e
 npx nyc report
 ```
 
-## Author
-
-👤 **Jaime Leonardo Suncin Cruz**
-
-- Twitter: [@jl_suncin](https://twitter.com/jl_suncin)
-- Github: [@leosuncin](https://github.com/leosuncin)
-- LinkedIn: [@jaimesuncin](https://linkedin.com/in/jaimesuncin)
-
-## Show your support
-
 Give a ⭐️ if this project helped you!
